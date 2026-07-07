@@ -3,6 +3,7 @@
 Welcome to my **100 Days of Azure** learning journey!
 
 This repository documents my daily progress through the KodeKloud **100 Days of Azure** challenge. Each day contains notes, commands, and concepts learned while working with Microsoft Azure.
+This repository showcases my progress through the 100 Days of Azure challenge, featuring practical, real-world Azure projects and labs from KodeKloud to strengthen my cloud engineering expertise.
 
 ## 🚀 Objectives
 
