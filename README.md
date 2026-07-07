@@ -14,25 +14,13 @@ This repository documents my daily progress through the KodeKloud **100 Days of 
 
 ## 📅 Progress
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 01 | Create an Azure SSH Key Pair | ✅ Completed |
+## Progress
 
-## 📂 Repository Structure
-
-```
-100-days-challenge-of-cloud-Azure/
-│
-├── README.md
-│
-├── Day-01/
-│   └── notes.md
-│
-├── Day-02/
-│   └── notes.md
-│
-└── ...
-```
+- [x] Day 1 - Azure Resource Group Creation
+- [x] Day 2 - Azure Virtual Machine Creation (`devops-vm`)
+- [ ] Day 3
+- [ ] ...
+- [ ] Day 100
 
 ## 🛠 Technologies
 
