@@ -20,7 +20,8 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 1 - Azure Resource Group Creation
 - [x] Day 2 - Azure Virtual Machine Creation (`devops-vm`)
 - [x] Day 03 – Created an Azure Virtual Machine (Ubuntu2204) using Azure CLI
-- [x] Day 04 - Create Virtual Network (VNet)
+- [x] Day 04 - Create Virtual Network (VNet )
+- [x] Day 05 – Created an Azure Virtual Network (VNet)
 - [ ] ...
 - [ ] Day 100
 
