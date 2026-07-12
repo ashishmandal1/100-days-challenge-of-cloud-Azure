@@ -23,6 +23,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 04 - Create Virtual Network (VNet )
 - [x] Day 05 – Created an Azure Virtual Network (VNet)
 - [x] Day 06 - Created Azure Virtual Network (xfusion-vn) and Subnet (xfusion-subnet) in Central US
+- [x] Day 07 – Create a Public IP Address
 - [ ] ...
 - [ ] Day 100
 
