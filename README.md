@@ -24,6 +24,9 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 05 – Created an Azure Virtual Network (VNet)
 - [x] Day 06 - Created Azure Virtual Network (xfusion-vn) and Subnet (xfusion-subnet) in Central US
 - [x] Day 07 – Create a Public IP Address
+- [x] Day 08 - Create an Azure Virtual Network
+- [x] Day 09  Attach a Network Interface (NIC) to an Azure Virtual Machine
+- [x] Day 10 Attached an existing Public IP (`devops-pip`) to the network interface of the Azure VM (`devops-vm-pip`).
 - [ ] ...
 - [ ] Day 100
 
