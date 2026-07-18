@@ -27,6 +27,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 08 - Create an Azure Virtual Network
 - [x] Day 09  Attach a Network Interface (NIC) to an Azure Virtual Machine
 - [x] Day 10 Attached an existing Public IP (`devops-pip`) to the network interface of the Azure VM (`devops-vm-pip`).
+- [X] Day 11 - Resize an Azure Virtual Machine
 - [ ] ...
 - [ ] Day 100
 
