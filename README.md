@@ -29,6 +29,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 10 Attached an existing Public IP (`devops-pip`) to the network interface of the Azure VM (`devops-vm-pip`).
 - [X] Day 11 - Resize an Azure Virtual Machine
 - [x] Day 12 - Added the `Environment=dev` tag to the Azure VM `nautilus-vm`.
+- [x] Day 13: Added root user's SSH public key to xfusion-vm and configured passwordless root SSH access
 - [ ] ...
 - [ ] Day 100
 
