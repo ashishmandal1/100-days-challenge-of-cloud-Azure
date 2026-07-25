@@ -30,6 +30,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [X] Day 11 - Resize an Azure Virtual Machine
 - [x] Day 12 - Added the `Environment=dev` tag to the Azure VM `nautilus-vm`.
 - [x] Day 13: Added root user's SSH public key to xfusion-vm and configured passwordless root SSH access
+- [x] Day 14: Created managed disk `xfusion-disk` with `Standard_LRS` storage and 2 GiB size
 - [ ] ...
 - [ ] Day 100
 
