@@ -31,6 +31,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 12 - Added the `Environment=dev` tag to the Azure VM `nautilus-vm`.
 - [x] Day 13: Added root user's SSH public key to xfusion-vm and configured passwordless root SSH access
 - [x] Day 14: Created managed disk `xfusion-disk` with `Standard_LRS` storage and 2 GiB size
+- [x] Day 15: Created Network Security Group `devops-nsg` with inbound rules for HTTP (port 80) and SSH (port 22).
 - [ ] ...
 - [ ] Day 100
 
