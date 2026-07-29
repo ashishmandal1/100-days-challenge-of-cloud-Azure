@@ -33,6 +33,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 14: Created managed disk `xfusion-disk` with `Standard_LRS` storage and 2 GiB size
 - [x] Day 15: Created Network Security Group `devops-nsg` with inbound rules for HTTP (port 80) and SSH (port 22).
 - [x] Day 16 - Azure Storage Account and Blob Container
+- [x] Day 17 - Azure Storage Account and Public Blob Container
 - [ ] ...
 - [ ] Day 100
 
