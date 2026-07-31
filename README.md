@@ -17,24 +17,25 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 
 ## Progress
 
-- [x] Day 1 - Azure Resource Group Creation
-- [x] Day 2 - Azure Virtual Machine Creation (`devops-vm`)
-- [x] Day 03 – Created an Azure Virtual Machine (Ubuntu2204) using Azure CLI
-- [x] Day 04 - Create Virtual Network (VNet )
-- [x] Day 05 – Created an Azure Virtual Network (VNet)
-- [x] Day 06 - Created Azure Virtual Network (xfusion-vn) and Subnet (xfusion-subnet) in Central US
-- [x] Day 07 – Create a Public IP Address
-- [x] Day 08 - Create an Azure Virtual Network
-- [x] Day 09  Attach a Network Interface (NIC) to an Azure Virtual Machine
-- [x] Day 10 Attached an existing Public IP (`devops-pip`) to the network interface of the Azure VM (`devops-vm-pip`).
-- [X] Day 11 - Resize an Azure Virtual Machine
-- [x] Day 12 - Added the `Environment=dev` tag to the Azure VM `nautilus-vm`.
+- [x] Day 1 : Azure Resource Group Creation
+- [x] Day 2 : Azure Virtual Machine Creation (`devops-vm`)
+- [x] Day 03 : Created an Azure Virtual Machine (Ubuntu2204) using Azure CLI
+- [x] Day 04 : Create Virtual Network (VNet )
+- [x] Day 05 : Created an Azure Virtual Network (VNet)
+- [x] Day 06 : Created Azure Virtual Network (xfusion-vn) and Subnet (xfusion-subnet) in Central US
+- [x] Day 07 : Create a Public IP Address
+- [x] Day 08 : Create an Azure Virtual Network
+- [x] Day 09 : Attach a Network Interface (NIC) to an Azure Virtual Machine
+- [x] Day 10 : Attached an existing Public IP (`devops-pip`) to the network interface of the Azure VM (`devops-vm-pip`).
+- [X] Day 11 : Resize an Azure Virtual Machine
+- [x] Day 12 : Added the `Environment=dev` tag to the Azure VM `nautilus-vm`.
 - [x] Day 13: Added root user's SSH public key to xfusion-vm and configured passwordless root SSH access
 - [x] Day 14: Created managed disk `xfusion-disk` with `Standard_LRS` storage and 2 GiB size
 - [x] Day 15: Created Network Security Group `devops-nsg` with inbound rules for HTTP (port 80) and SSH (port 22).
-- [x] Day 16 - Azure Storage Account and Blob Container
-- [x] Day 17 - Azure Storage Account and Public Blob Container
-- [x] Day 18 – Upload File to Azure Blob Storage
+- [x] Day 16 : Azure Storage Account and Blob Container
+- [x] Day 17 : Azure Storage Account and Public Blob Container
+- [x] Day 18 : Upload File to Azure Blob Storage
+- [x] Day 19 : Convert Azure Blob Container from Public to Private
 - [ ] ...
 - [ ] Day 100
 
