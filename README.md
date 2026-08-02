@@ -36,6 +36,8 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 17 : Azure Storage Account and Public Blob Container
 - [x] Day 18 : Upload File to Azure Blob Storage
 - [x] Day 19 : Convert Azure Blob Container from Public to Private
+- [x] Day 20 : Modified and deployed Vnet using ARM templete
+- [x] Day 21 – Create an Azure VM with a Static Public IP
 - [ ] ...
 - [ ] Day 100
 
