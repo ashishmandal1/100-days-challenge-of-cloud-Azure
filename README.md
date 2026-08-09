@@ -39,6 +39,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 20 : Modified and deployed Vnet using ARM templete
 - [x] Day 21 – Create an Azure VM with a Static Public IP
 - [x] Day 22 – Azure Virtual Machine with Nginx (Cloud-Init)
+- [x] Day 23 : Azure VM with Nginx using Azure CLI, Cloud-Init and NSG
 - [ ] ...
 - [ ] Day 100
 
