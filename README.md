@@ -41,6 +41,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 22 – Azure Virtual Machine with Nginx (Cloud-Init)
 - [x] Day 23 : Azure VM with Nginx using Azure CLI, Cloud-Init and NSG
 - [x] Day 24 : Created Azure VM with SSH key Authentication
+- [x] Day 25 : Expand VM disk and mount data disk
 - [ ] ...
 - [ ] Day 100
 
