@@ -43,6 +43,8 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 24 : Created Azure VM with SSH key Authentication
 - [x] Day 25 : Expand VM disk and mount data disk
 - [x] Day 26 : Created a public VNet, subnet, NSG, public IP, and Ubuntu VM with internet-accessible SSH.
+- [x] Day 27 : Azure Private VNet Setup
+- Day 28 : Azure Nginx VM Internet Access — Fixed the `datacenter-vnet` routing issue, attached `datacenter-pip` to `datacenter-vm`, allowed HTTP port 80 through the NSG, and installed/configured Nginx with successful external HTTP access.
 - [ ] ...
 - [ ] Day 100
 
