@@ -47,6 +47,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - Day 28 : Azure Nginx VM Internet Access — Fixed the `datacenter-vnet` routing issue, attached `datacenter-pip` to `datacenter-vm`, allowed HTTP port 80 through the NSG, and installed/configured Nginx with successful external HTTP access.
 - [x] Day 29 - Built and pushed Docker image to ACR
 - [x] Day 30 - Azure SQL Database with Basic compute and locally redundant backups.
+- [x] Day 31 - Azure Python Web App | Created a Linux Python 3.14 Web App with Basic B1 App Service Plan, tags, and Running state.
 - [ ] ...
 - [ ] Day 100
 
