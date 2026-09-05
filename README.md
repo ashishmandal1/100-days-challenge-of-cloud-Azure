@@ -48,7 +48,8 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 29 - Built and pushed Docker image to ACR
 - [x] Day 30 - Azure SQL Database with Basic compute and locally redundant backups.
 - [x] Day 31 - Azure Python Web App | Created a Linux Python 3.14 Web App with Basic B1 App Service Plan, tags, and Running state.
-- [x] Day 32 - Azure Blob Migration | Created a private destination container and migrated `xfusion.txt`, verifying matching size, MD5, SHA-256 hashes, and identical content.
+- [x] Day 32 - Azure Blob Migration | Created a private destination container and migrated `xfusion.txt`, verifying matching size, MD5, SHA-256 hashes, and identical content. 
+- [x] Day 33 - Azure Load Balancer | Configured a public Load Balancer with backend VM, health probe, HTTP rule, and verified Nginx access.
 - [ ] ...
 - [ ] Day 100
 
