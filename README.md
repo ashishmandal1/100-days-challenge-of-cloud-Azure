@@ -52,6 +52,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 33 - Azure Load Balancer | Configured a public Load Balancer with backend VM, health probe, HTTP rule, and verified Nginx access .
 - [x] Day 34 - Fixed Azure VM outbound NSG blocking and restored package installation.
 - [x] Day 35 – VNet Peering
+- [x] Day 36 — Blob Lifecycle Management completed successfully and verified end-to-end.
 - [ ] ...
 - [ ] Day 100
 
