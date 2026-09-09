@@ -53,6 +53,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 34 - Fixed Azure VM outbound NSG blocking and restored package installation.
 - [x] Day 35 – VNet Peering
 - [x] Day 36 — Blob Lifecycle Management completed successfully and verified end-to-end.
+- [x] Day 37 – Azure PHP Application with Remote MySQL
 - [ ] ...
 - [ ] Day 100
 
