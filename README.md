@@ -54,6 +54,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 35 – VNet Peering
 - [x] Day 36 — Blob Lifecycle Management completed successfully and verified end-to-end.
 - [x] Day 37 – Azure PHP Application with Remote MySQL
+- [x] Day 38 — Azure VM Blob Storage Integration
 - [ ] ...
 - [ ] Day 100
 
