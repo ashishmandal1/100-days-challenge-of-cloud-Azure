@@ -56,7 +56,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 37 – Azure PHP Application with Remote MySQL
 - [x] Day 38 — Azure VM Blob Storage Integration
 - [x] Day 39 — Hosted static website using Azure Storage
-
+- [x] Day 40: Completed Azure Key Vault RSA encryption and decryption with RSA-OAEP.
 - [ ] ...
 - [ ] Day 100
 
