@@ -58,6 +58,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 39 — Hosted static website using Azure Storage
 - [x] Day 40: Completed Azure Key Vault RSA encryption and decryption with RSA-OAEP.
 - [x] Day 41: Created an Azure Table Storage account and `tasks` table, inserted two task entities, and verified their statuses using Azure CLI.
+* [x] Day 42: Copied the contents of the Azure Blob container to `/opt` and successfully deleted the container. ✅
 - [ ] ...
 - [ ] Day 100
 
