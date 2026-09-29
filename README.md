@@ -59,6 +59,9 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 - [x] Day 40: Completed Azure Key Vault RSA encryption and decryption with RSA-OAEP.
 - [x] Day 41: Created an Azure Table Storage account and `tasks` table, inserted two task entities, and verified their statuses using Azure CLI.
 * [x] Day 42: Copied the contents of the Azure Blob container to `/opt` and successfully deleted the container. ✅
+* [x] Day 43 – Azure Application Gateway
+Successfully created an Ubuntu VM running Nginx, configured `nautilus-nsg` with HTTP access, deployed `nautilus-agw` with a public frontend IP and backend pool, verified end-to-end HTTP access through the Application Gateway, and passed the provided automated validator.
+
 - [ ] ...
 - [ ] Day 100
 
