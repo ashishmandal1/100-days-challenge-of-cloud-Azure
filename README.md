@@ -63,7 +63,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 Successfully created an Ubuntu VM running Nginx, configured `nautilus-nsg` with HTTP access, deployed `nautilus-agw` with a public frontend IP and backend pool, verified end-to-end HTTP access through the Application Gateway, and passed the provided automated validator.
 
 - [ ] ...
-- [ ] Day 100
+- [ ] Day 50
 
 ## 🛠 Technologies
 
