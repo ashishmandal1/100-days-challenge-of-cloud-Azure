@@ -61,7 +61,7 @@ This repository showcases my progress through the 100 Days of Azure challenge, f
 * [x] Day 42: Copied the contents of the Azure Blob container to `/opt` and successfully deleted the container. ✅
 * [x] Day 43 – Azure Application Gateway
 Successfully created an Ubuntu VM running Nginx, configured `nautilus-nsg` with HTTP access, deployed `nautilus-agw` with a public frontend IP and backend pool, verified end-to-end HTTP access through the Application Gateway, and passed the provided automated validator.
-
+* [x] Day 44 — Azure Event Hubs VM Log Collection ✅
 - [ ] ...
 - [ ] Day 50
 
